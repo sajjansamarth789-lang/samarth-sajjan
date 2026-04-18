@@ -31,5 +31,46 @@ https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab1_p9.png
 lab1_p10-o/plink
 https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab1_p10.png
 
+lab2_mapinterfacedemo1-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab2_mapinterfacedemo1.png
+
+lab2_mapinterfacedemo2-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab2_mapinterfacedemo2.png
+
+lab2_p1-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab2_p1.png
+
+lab2_p10-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab2_p10.png
+
+lab2_p11-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab2_p11.png
+
+lab2_p12-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab2_p12.png
+
+lab2_p2-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab2_p2.png
+
+lab2_p3-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab2_p3.png
+
+lab2_p4-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab2_p4.png
+
+lab2_p5-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab2_p5.png
+
+lab2_p6-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab2_p6.png
+
+lab2_p7-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab2_p7.png
+
+lab2_p8-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab2_p8.png
+
+lab2_p9-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab2_p9.png
 
 
