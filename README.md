@@ -99,3 +99,24 @@ https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab6_countryli
 
 lab6_jlistexample-o/plink
 https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab6_jlistexample.png
+
+lab7a_a1-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab7a1.png
+
+lab7a_a2-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab7a2.png
+
+lab7b_b1-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab7b1.png
+
+lab7b_b2-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab7b2.png
+
+lab7c_c1-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab7c1.png
+
+lab7c_c2-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab7c2.png
+
+
+
