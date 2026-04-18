@@ -88,10 +88,14 @@ https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab5_ButtonExa
 lab5_swingexample-o/plink
 https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab5_swingexample.png
 
+lab6_tabbedpaneexamples-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab6_TabbedPaneExamples.jpeg
 
+lab6_tabbedpaneexample-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab6_tabbedpaneexample.png
 
+lab6_countrylistexample-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab6_countrylistexample.png
 
-
-
-
-
+lab6_jlistexample-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab6_jlistexample.png
