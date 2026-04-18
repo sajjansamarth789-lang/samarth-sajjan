@@ -130,6 +130,19 @@ https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab8b1.png
 lab8b_b2-o/plink
 https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab8b2.png
 
+lab9a_a1-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab9a1.png
+
+lab9a_a2-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab9a2.png
+
+lab9b_b1-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab9b1.png
+
+lab9b_b2-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab9b2.png
+
+
 
 
 
