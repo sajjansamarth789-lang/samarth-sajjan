@@ -73,4 +73,16 @@ https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab2_p8.png
 lab2_p9-o/plink
 https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab2_p9.png
 
+lab3_stringbuildingfunction-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/StringBuildingFunctions.java
+
+lab3_stringhandlingdemo1-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab3_stringhandlingdemo1.png
+
+lab3_stringhandlingdemo2-o/plink
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab3_stringhandlingdemo2.png
+
+
+
+
 
