@@ -46,8 +46,28 @@ https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab3b_q1.png
 LAB3b-q2-o/p
 https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab3b_q2.png
 
+LAB3b-q3-o/p
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab3b_q3.png
 
+LAB3b-q4-o/p
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab3b_q4.png
 
+LAB3b-q5-o/p
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab3b_q5.png
 
+LAB3c-q1-o/p
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab3c_q1.png
+
+LAB3c-q2-o/p
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab3c_q2.png
+
+LAB3c-q3-o/p
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab3c_q3.png
+
+LAB3c-q4-o/p
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab3c_q4.png
+
+LAB3c-q5-o/p
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab3c_q5.png
  
  
