@@ -1,5 +1,6 @@
-//5. Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using
-//Collections.swap(l_list, 0, 2))
+ //4. Write a Java program to display elements and their positions in a linked list ( using
+//l_listobj.get(p) )
+
 
 package linkedlistprograms;
 
