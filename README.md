@@ -69,5 +69,19 @@ https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab3c_q4.png
 
 LAB3c-q5-o/p
 https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab3c_q5.png
- 
+
+LAB4a-o/p
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab4a.png
+
+LAB4b-o/p
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab4b.png
+
+LAB4c-o/p
+https://github.com/sajjansamarth789-lang/samarth-sajjan/blob/main/lab4c.png
+
+
+
+
+
+
  
